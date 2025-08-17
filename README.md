@@ -9,7 +9,7 @@ A mini task management web application built with **Spring Boot** and **Thymelea
 
 ## 🚀 Features
 
-- **✨ Modern UI** - Gradient backgrounds, smooth animations, and professional design
+- **✨Modern UI** - Gradient backgrounds, smooth animations, and professional design
 - **📱 Fully Responsive** - Works perfectly on desktop, tablet, and mobile devices
 - **✅ Task Management** - Add, delete, and mark tasks as complete
 - **📊 Real-time Statistics** - View total, completed, and pending tasks
@@ -88,15 +88,15 @@ demo/
 ## 🚀 Getting Started
 
 ### **Prerequisites**
-- **Java 8** or higher
+- **Java 8** 
 - **Maven 3.9+** (or use the included Maven wrapper)
 
 ### **Installation & Running**
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/task-manager-pro.git
-   cd task-manager-pro
+   git clone https://github.com/SaiSiriChandana/spring-boot-todo-app.git
+   cd spring-boot-todo-app
    ```
 
 2. **Run the application**
