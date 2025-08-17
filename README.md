@@ -1,6 +1,6 @@
 # ✨ Task Manager Pro
 
-A simple modern task management web application built with **Spring Boot** and **Thymeleaf**. Organize your life, one task at a time with this elegant and responsive task manager.
+A mini task management web application built with **Spring Boot** and **Thymeleaf**. Organize your life, one task at a time with this elegant and responsive task manager.
 
 ![Task Manager Pro](https://img.shields.io/badge/Spring%20Boot-2.7.18-green)
 ![Java](https://img.shields.io/badge/Java-8-blue)
@@ -127,9 +127,5 @@ demo/
 | `GET`  | `/delete/{id}` | Delete a task by ID |
 | `GET`  | `/toggle/{id}` | Toggle task completion status |
 
-
-
-
-**Made with ❤️ using Spring Boot**
 
 *Happy task managing! ✨*
