@@ -42,7 +42,7 @@ A mini task management web application built with **Spring Boot** and **Thymelea
 ## 🛠️ Technology Stack
 
 ### **Backend**
-- **Java 8** - Modern Java with enhanced features
+- **Java 8** - Core backend development
 - **Spring Boot 2.7.18** - Rapid application development framework
 - **Spring MVC** - Web framework for building web applications
 - **Maven** - Dependency management and build tool
